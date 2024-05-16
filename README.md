@@ -1,6 +1,6 @@
 # Hi There, 👋 I'm Emmanuel
-![Emmanuel Kibet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel Kibet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deniswachira&layout=compact)
+![Emmanuel Kibet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelOwen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelOwen&layout=compact)
  
 # Languages & Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -18,8 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
 # Connect with me
- <br>
-<br>
+ 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
