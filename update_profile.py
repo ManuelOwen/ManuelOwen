@@ -283,4 +283,4 @@ if __name__ == "__main__":
     for mode in PALETTES:
         with open(f"{mode}_mode.svg", "w", encoding="utf-8") as f:
             f.write(render(mode, art, stats, today))
-    print("wrote dark_mode.svg, light_mode.svg")
+    print("wrote my_avatar.jpg, light_avatar.jpg")
