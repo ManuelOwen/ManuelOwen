@@ -729,8 +729,8 @@
 <text x="490.0" y="168.5" fill="#afb8c1" textLength="327.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........................................ </text>
 <text x="817.6" y="168.5" fill="#24292f" textLength="78.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">zsh + tmux</text>
 <text x="443.2" y="188.0" fill="#b0470d" textLength="31.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IDE:</text>
-<text x="474.4" y="188.0" fill="#afb8c1" textLength="234.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ............................ </text>
-<text x="708.4" y="188.0" fill="#24292f" textLength="187.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Neovim, Claude Code, Zed</text>
+<text x="474.4" y="188.0" fill="#afb8c1" textLength="156.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .................. </text>
+<text x="630.4" y="188.0" fill="#24292f" textLength="265.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Neovim, Claude Code, visual Studio</text>
 <text x="443.2" y="227.0" fill="#b0470d" textLength="171.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Languages.Programming:</text>
 <text x="614.8" y="227.0" fill="#afb8c1" textLength="101.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........... </text>
 <text x="716.2" y="227.0" fill="#24292f" textLength="179.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TypeScript, Python, PHP</text>
@@ -768,7 +768,7 @@
 <text x="880.0" y="461.0" fill="#24292f" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">34</text>
 <text x="443.2" y="480.5" fill="#b0470d" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Contributions:</text>
 <text x="552.4" y="480.5" fill="#afb8c1" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ............ </text>
-<text x="661.6" y="480.5" fill="#24292f" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">679</text>
+<text x="661.6" y="480.5" fill="#24292f" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">680</text>
 <text x="685.0" y="480.5" fill="#afb8c1" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> | </text>
 <text x="708.4" y="480.5" fill="#b0470d" textLength="78.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Followers:</text>
 <text x="786.4" y="480.5" fill="#afb8c1" textLength="93.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .......... </text>
@@ -776,8 +776,8 @@
 <text x="443.2" y="500.0" fill="#b0470d" textLength="117.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Lines of Code: </text>
 <text x="560.2" y="500.0" fill="#24292f" textLength="70.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3,399,193</text>
 <text x="630.4" y="500.0" fill="#afb8c1" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ( </text>
-<text x="653.8" y="500.0" fill="#1a7f37" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3,410,209++</text>
+<text x="653.8" y="500.0" fill="#1a7f37" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3,410,221++</text>
 <text x="739.6" y="500.0" fill="#afb8c1" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
-<text x="755.2" y="500.0" fill="#cf222e" textLength="62.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">11,016--</text>
+<text x="755.2" y="500.0" fill="#cf222e" textLength="62.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">11,028--</text>
 <text x="817.6" y="500.0" fill="#afb8c1" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> )</text>
 </svg>

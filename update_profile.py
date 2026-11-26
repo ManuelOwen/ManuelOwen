@@ -24,7 +24,7 @@ INFO = [
     ("Kernel", "Freelance Full-Stack Engineer"),
     ("WM", "Hyprland"),
     ("Shell", "zsh + tmux"),
-    ("IDE", "Neovim, Claude Code, Zed"),
+    ("IDE", "Neovim, Claude Code, visual Studio"),
     None,
     ("Languages.Programming", "TypeScript, Python, PHP"),
     ("Languages.Real", "English, Swahili"),
